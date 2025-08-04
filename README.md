@@ -6,3 +6,4 @@ Bem-vindo(a) ao nosso projeto colaborativo! O objetivo desta atividade é que ca
 
 ---
 Matheus de Borba da Silva
+Eduardo Tamborelli Ferreira Lino
